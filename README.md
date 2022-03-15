@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I previously worked as an actuary, but now am about to start my journey as a data scientist. 
-I hope to get involved with cool projects and share them here. 
+I hope to get involved with cool projects and share them here 🤗
 
 
 <!--
