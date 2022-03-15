@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I previously worked as an actuary, but now am about to start my journey as a data scientist. 
+I hope to get involved with cool projects and share them here. 
+
+
 <!--
 **Kavithaaa23/kavithaaa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
